@@ -7,4 +7,7 @@ Watch the tutorial [here](https://youtu.be/AEMe-kcZBLw?si=otkbbhEFYBcb7pc4).
 
 - By texturing the terrain with different colors, the color of the grass will also change with it. Making it more 
 natural. 
-- You will see color change depending on camera position from the grass.  
+- You will see color change depending on camera position from the grass.
+
+https://github.com/FahimKamal/Unreal_StylizedGrass/assets/47342396/7cb10b2d-52fb-4f80-bc63-5db657db9411
+
