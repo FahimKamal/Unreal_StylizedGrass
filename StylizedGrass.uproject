@@ -15,6 +15,11 @@
 			"Name": "RuntimeFilesDownloader",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
+		},
+		{
+			"Name": "UnityVersionControl",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d971a6f8262e4066ba77cbd67a375884"
 		}
 	]
 }
